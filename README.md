@@ -1,6 +1,5 @@
 # City Bike Analysis
 
-# CitiBike Data Analysis
 
 
 ## Project Overview
